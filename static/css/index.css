@@ -165,3 +165,7 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.publication-link-btn:hover {
+  background-color: #444 !important;
+}
